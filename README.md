@@ -10,7 +10,7 @@ This is a beginner-level challenge where the goal is to create a QR Code compone
 
 ### Links
 
-- [Live Site](Your-Netlify-URL-here)
+- [Live Site](https://venkatesh-me-qr-code-component.netlify.app/)
 
 ### Built With
 
